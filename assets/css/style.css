@@ -1,0 +1,22 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+:root {
+    --cloud:#EDEDED;
+    --popnFlash:#8CF4FF;
+    --aquamarine:#75ABAC;
+    --deepestBlue:#3C464F;
+    --lima: #350cbc;
+}
+body {
+    background-color: var(--cloud);
+    color: var(--deepestBlue);
+}
+
+.title{
+    color: var(--deepestBlue);
+    font-weight: bolder;
+    font-style: italic;
+}
